@@ -17,22 +17,11 @@ Our code is modified from https://github.com/XHUJOY/CycleGAN-tensorflow, you can
 ### Train and Test
 - The procedure is similar with https://github.com/XHUJOY/CycleGAN-tensorflow, you can refer it.
 
-## Results
-- The results of transferring from CUHK03 to Duke are shown as follows:
-<img src="CToD.png" width="800px"/>
-- The results of transferring from CUHK03 to Market are shown as follows:
-<img src="CtoM.png" width="800px"/>
-- The results of transferring from Market to CUHK03 are shown as follows:
-<img src="MtoC.png" width="800px"/>
-- The results of transferring from Market to Duke are shown as follows:
-<img src="MtoD.png" width="800px"/>
-- The results of transferring from Duke to CUHK03 are shown as follows:
-<img src="DtoC.png" width="800px"/>
-- The results of transferring from Duke to Market are shown as follows:
-<img src="DtoM.png" width="800px"/>
-- The results of transferring from CUHK03 to MSMT17 are shown as follows:
-<img src="CtoMS.png" width="800px"/>
-- The results of transferring from Market to MSMT17 are shown as follows:
-<img src="MtoMS.png" width="800px"/>
-- The results of transferring from Duke to MSMT17 are shown as follows:
-<img src="DtoMS.png" width="800px"/>
+### the model can download from baiduyun: 
+链接：https://pan.baidu.com/s/1LmNXXVIF7uuqkyo3Ft-zQA 
+提取码：afup 
+直接放在主目录就可以
+
+### 人像分割代码：
+
+https://github.com/958099161/person_segmentation
