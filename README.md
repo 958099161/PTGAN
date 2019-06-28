@@ -17,7 +17,8 @@ Our code is modified from https://github.com/XHUJOY/CycleGAN-tensorflow, you can
 ### Train and Test
 - The procedure is similar with https://github.com/XHUJOY/CycleGAN-tensorflow, you can refer it.
 
-### the model can download from baiduyun: 
+### 模型有点大，github上传失败了几次，所以就传到百度云了
+## the model can download from baiduyun: 
 链接：https://pan.baidu.com/s/1LmNXXVIF7uuqkyo3Ft-zQA 
 提取码：afup 
 直接放在主目录就可以
